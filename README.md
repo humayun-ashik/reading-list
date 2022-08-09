@@ -10,7 +10,7 @@ Generally reading items was lost with time, so I create this repo to track it.
 | July 26, 2022 | <ul> <li> [Getting Started With Testing Microservices](https://alexromanov.github.io/2021/06/28/microservices-test-resources/) </li> <li> [The Top Skills You Need To Become A Software Tester In 2022](https://applitools.com/blog/how-to-start-career-software-tester-top-skills/) </li> <li> [Quality Leadership: Influence through Informal Leadership](https://applitools.com/blog/quality-leadership-influence-informal-leadership/) </li> <li> [Are You Ready for the Leap to QA Leadership?](https://applitools.com/blog/are-you-ready-for-the-leap-to-qa-leadership/) </li></ul>
 | July 30, 2022 | <ul> <li> [Become A Software Testing Detective – Part 1](https://blog.testproject.io/2022/04/25/become-a-software-testing-detective-part-1/) </li> </ul>
 | August 7, 2022 | <ul><li>[The Complete Guide of JMeter Controllers](https://octoperf.com/blog/2021/04/30/controllers/) </li> <li> [20 Scenarios for Testing login Pages & Search Functionalities](https://www.clariontech.com/blog/20-scenarios-for-testing-login-pages-and-search-functionality-on-websites) </li> <li> [Stress-testing: How Testers Live in a Turbulent World of Bugs](https://habr.com/en/company/innotech/blog/676968/) </li></ul>
-
+|August 10, 2022| <ul><li> [Quality’s dirty little secrets](https://mrslavchev.com/2021/12/08/qualitys-dirty-little-secrets/) </li> <li>[Five Tips to Improve as An Automation Engineer](https://blog.testproject.io/2021/12/14/five-tips-to-improve-as-an-automation-engineer/) </li> </ul>
 
 
 
