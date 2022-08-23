@@ -13,8 +13,9 @@ Generally reading items was lost with time, so I create this repo to track it.
 | August 10, 2022 | <ul><li> [Quality’s dirty little secrets](https://mrslavchev.com/2021/12/08/qualitys-dirty-little-secrets/) </li> <li>[Five Tips to Improve as An Automation Engineer](https://blog.testproject.io/2021/12/14/five-tips-to-improve-as-an-automation-engineer/) </li> </ul>
 | August 17, 2022 | <ul><li> [Zero to SME: Quickly Becoming Your Own Subject Matter Expert](https://www.stickyminds.com/article/zero-sme-quickly-becoming-your-own-subject-matter-expert) </li> <li>[Practical test strategy for Spring & React application](https://www.awesome-testing.com/2020/01/practical-test-strategy-for-spring.html) </li></ul>
 | August 18, 2022 | <ul><li> [4 ways to be more active in the software testing community](https://kevintuck.co.uk/4-ways-to-be-more-active-in-the-software-testing-community/) </li><li>[7 Browser Tricks to Aid in Your Testing](https://blog.gurock.com/browser-tricks-to-aid-testing/) </li><li>[Hiring manual and automation testers](https://visible-quality.blogspot.com/2021/09/hiring-manual-and-automation-testers.html) </li></ul>
-
-
+| August 19, 2022 | <ul><li> [LET’S CHARM OUR TEAMS WITH CHARISMA TESTING](https://callumakehurstryansblog.wordpress.com/2021/09/08/lets-charm-our-teams-with-charisma-testing/) </li> <li> [8 soft skills I think a tester should have](https://medium.com/@marine.lacourie/9-soft-skills-i-think-a-tester-should-have-8c187b380741) </li> </ul>
+| August 22, 2022 | <ul> <li>[What Does It Mean To Be A Technical Tester?](https://www.ministryoftesting.com/dojo/lessons/what-does-it-mean-to-be-a-technical-tester) </li> <li> [Sequence Diagram Tutorial – Complete Guide with Examples](https://creately.com/blog/diagrams/sequence-diagram-tutorial/) </li> </ul>
+| August 23, 2022 | <ul><li>[6 TOOLS FOR RAPID CROSS-DEVICE WEBSITE TESTING](https://www.webdesignerdepot.com/2021/01/6-tools-for-rapid-cross-device-website-testing/) <li>[Cross Browser Testing](https://www.browserstack.com/cross-browser-testing) </li> </li> <li> [Introduction to cross browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction) </li> </ul>
 
 
 
