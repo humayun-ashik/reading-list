@@ -16,6 +16,6 @@ Generally reading items was lost with time, so I create this repo to track it.
 | August 19, 2022 | <ul><li> [LET’S CHARM OUR TEAMS WITH CHARISMA TESTING](https://callumakehurstryansblog.wordpress.com/2021/09/08/lets-charm-our-teams-with-charisma-testing/) </li> <li> [8 soft skills I think a tester should have](https://medium.com/@marine.lacourie/9-soft-skills-i-think-a-tester-should-have-8c187b380741) </li> </ul>
 | August 22, 2022 | <ul> <li>[What Does It Mean To Be A Technical Tester?](https://www.ministryoftesting.com/dojo/lessons/what-does-it-mean-to-be-a-technical-tester) </li> <li> [Sequence Diagram Tutorial – Complete Guide with Examples](https://creately.com/blog/diagrams/sequence-diagram-tutorial/) </li> </ul>
 | August 23, 2022 | <ul><li>[6 TOOLS FOR RAPID CROSS-DEVICE WEBSITE TESTING](https://www.webdesignerdepot.com/2021/01/6-tools-for-rapid-cross-device-website-testing/) <li>[Cross Browser Testing](https://www.browserstack.com/cross-browser-testing) </li> </li> <li> [Introduction to cross browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction) </li> </ul>
-
+| September 3, 2022 | <ul><li>[MAKING GREAT WAVES: 8 SOFTWARE TESTING CONVICTIONS](https://automationpanda.com/2022/08/23/making-great-waves-8-software-testing-convictions/) </li></ul>
 
 
