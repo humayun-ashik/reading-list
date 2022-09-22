@@ -17,5 +17,5 @@ Generally reading items was lost with time, so I create this repo to track it.
 | August 22, 2022 | <ul> <li>[What Does It Mean To Be A Technical Tester?](https://www.ministryoftesting.com/dojo/lessons/what-does-it-mean-to-be-a-technical-tester) </li> <li> [Sequence Diagram Tutorial – Complete Guide with Examples](https://creately.com/blog/diagrams/sequence-diagram-tutorial/) </li> </ul>
 | August 23, 2022 | <ul><li>[6 TOOLS FOR RAPID CROSS-DEVICE WEBSITE TESTING](https://www.webdesignerdepot.com/2021/01/6-tools-for-rapid-cross-device-website-testing/) <li>[Cross Browser Testing](https://www.browserstack.com/cross-browser-testing) </li> </li> <li> [Introduction to cross browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction) </li> </ul>
 | September 3, 2022 | <ul><li>[MAKING GREAT WAVES: 8 SOFTWARE TESTING CONVICTIONS](https://automationpanda.com/2022/08/23/making-great-waves-8-software-testing-convictions/) </li></ul>
-
+| September 08, 2022| <ul><li> [Participating in Code Reviews as a Tester](https://www.stickyminds.com/article/participating-code-reviews-tester) </li> <li>[Role Of A Software Tester In Code Reviews](https://www.linkedin.com/pulse/role-software-tester-code-reviews-gaurav-rathi/) </li> </ul>
 
